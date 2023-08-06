@@ -6,7 +6,7 @@
             <!-- Logo -->
             <a href="#home" class="flex items-center">
               <img
-                src="/path/to/logo.png"
+                src=""
                 alt="Logo"
                 class="h-8 w-auto"
               />
