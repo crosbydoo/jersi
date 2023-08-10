@@ -1,8 +1,16 @@
 import {createRouter, createWebHistory} from "vue-router";
 
-import MainPage from "../components/Main.vue";
+const MainPage = () => import("../pages/Main.vue");
 
-import notFound from "../components/notFound.vue";
+const notFound = () => import ("../pages/notFound.vue");
+
+const TentangPage = () => import ("../pages/views/Tentang.vue");
+
+const KegiatanPage = () => import("../pages/views/Kegiatan.vue");
+
+const GaleriPage = () => import("../pages/views/Galeri.vue");
+
+const KontakPage = () => import("../pages/views/Kontak.vue");
 
 const routes = [
     {
@@ -10,6 +18,30 @@ const routes = [
         name: "Main",
         component: MainPage,
         alias: '/Beranda'
+    },
+    {
+        path: '/tentang',
+        name: "Tentang",
+        component: TentangPage,
+        alias: '/Tentang-Kami'
+    },
+    {
+        path: '/kegiatan',
+        name: "Kegiatan",
+        component: KegiatanPage,
+        alias: '/Kegiatan'
+    },
+    {
+        path: '/galeri',
+        name: "Galeri",
+        component: GaleriPage,
+        alias: '/Galeri'
+    },
+    {
+        path: '/kontak',
+        name: "Kontak",
+        component: KontakPage,
+        alias: '/Kontak'
     },
     {
         path: '/:pathMatch(.*)*',
@@ -20,6 +52,7 @@ const routes = [
 
 const router = createRouter({
     history: createWebHistory(),
+    mode: 'history',
     routes,
 })
 
