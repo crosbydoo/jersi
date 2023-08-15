@@ -26,7 +26,7 @@ const routes = [
         alias: '/Tentang-Kami'
     },
     {
-        path: '/kegiatan',
+        path: '/program',
         name: "Kegiatan",
         component: KegiatanPage,
         alias: '/Kegiatan'
