@@ -1,7 +1,7 @@
 <template>
     <main>
         <div class="relative pt-16 pb-32 flex items-center justify-center min-h-screen bg-center bg-cover"
-            style="background-image: url('https://cdn.discordapp.com/attachments/1104115558649176094/1138178731177934858/jersi-new-compress.webp');">
+            style="background-image: url('https://cdn.discordapp.com/attachments/1104115558649176094/1138178731177934858/jersi-new-compress.webp?ex=662fe88b&is=661d738b&hm=da64a54dc8e5b4ae5cb1c25f3df4f13fa299f583e2a1e53bade7a217b6f35caf&');">
             <div class="absolute top-0 w-full h-full bg-black opacity-50"></div>
             <div class="container mx-auto relative sm:mx-auto">
                 <div class="w-full lg:w-6/12 px-4 mx-auto text-center ">
@@ -12,8 +12,8 @@
                 </div>
             </div>
             <div class="absolute bottom-0 left-0 right-0 w-full pointer-events-none" style="height: 70px;">
-                <svg class="absolute bottom-0 overflow-hidden" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"
-                    version="1.1" viewBox="0 0 2560 100" x="0" y="0">
+                <svg class="absolute bottom-0 overflow-hidden" xmlns="http://www.w3.org/2000/svg"
+                    preserveAspectRatio="none" version="1.1" viewBox="0 0 2560 100" x="0" y="0">
                     <polygon class="text-teal-300 fill-current" points="2560 0 2560 100 0 100"></polygon>
                 </svg>
             </div>
@@ -23,7 +23,8 @@
             <div class="container mx-auto px-4">
                 <div class="flex flex-wrap">
                     <div class="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
-                        <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                        <div
+                            class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                             <div class="px-4 py-5 flex-auto">
                                 <div
                                     class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
@@ -32,13 +33,15 @@
                                 <h6 class="text-xl font-semibold">Kerjasama</h6>
                                 <p class="mt-2 mb-4 text-gray-600">
                                     Inti dari upaya kami. Kami berusaha untuk bekerja sama dengan organisasi lain, baik
-                                    publik maupun swasta, untuk mencapai tujuan bersama dalam memajukan pemuda Indonesia.
+                                    publik maupun swasta, untuk mencapai tujuan bersama dalam memajukan pemuda
+                                    Indonesia.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="w-full md:w-4/12 px-4 text-center">
-                        <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                        <div
+                            class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                             <div class="px-4 py-5 flex-auto">
                                 <div
                                     class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-blue-400">
@@ -46,14 +49,16 @@
                                 </div>
                                 <h6 class="text-xl font-semibold">Kegiatan</h6>
                                 <p class="mt-2 mb-4 text-gray-600">
-                                    Kegiatan komunitas kami mencakup pertemuan rutin, gotong royong, dan rekreasi. Semua ini
+                                    Kegiatan komunitas kami mencakup pertemuan rutin, gotong royong, dan rekreasi. Semua
+                                    ini
                                     bertujuan untuk memperkuat rasa persaudaraan dan kebersamaan antaranggota.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="pt-6 w-full md:w-4/12 px-4 text-center">
-                        <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
+                        <div
+                            class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                             <div class="px-4 py-5 flex-auto">
                                 <div
                                     class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-green-400">
@@ -61,8 +66,10 @@
                                 </div>
                                 <h6 class="text-xl font-semibold">Keberlanjutan</h6>
                                 <p class="mt-2 mb-4 text-gray-600">
-                                    Kami bertanggungjawab untuk terus maju dan beradaptasi dengan perkembangan zaman, agar
-                                    Organisasi tetap menjadi pilihan utama bagi pemuda Indonesia yang ingin berkembang dan
+                                    Kami bertanggungjawab untuk terus maju dan beradaptasi dengan perkembangan zaman,
+                                    agar
+                                    Organisasi tetap menjadi pilihan utama bagi pemuda Indonesia yang ingin berkembang
+                                    dan
                                     memberikan dampak positif.
                                 </p>
                             </div>
@@ -80,7 +87,8 @@
                         </h3>
                         <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700 text-justify">
                             Berkarya dalam organisasi kepemudaan adalah tentang menjelajahi tanpa batas. Bersama, kami
-                            mendorong gagasan baru, merangkul tantangan, dan menciptakan solusi inovatif yang menginspirasi.
+                            mendorong gagasan baru, merangkul tantangan, dan menciptakan solusi inovatif yang
+                            menginspirasi.
                             Dari proyek kolaboratif hingga acara kreatif, setiap langkah adalah peluang untuk menggali
                             potensi tak terbatas.
                         </p>
@@ -98,13 +106,16 @@
                             <blockquote class="relative p-8 mb-4">
                                 <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
                                     class="absolute left-0 w-full block" style="height: 95px; top: -94px;">
-                                    <polygon points="-30,95 583,95 583,65" class="text-green-400 fill-current"></polygon>
+                                    <polygon points="-30,95 583,95 583,65" class="text-green-400 fill-current">
+                                    </polygon>
                                 </svg>
                                 <h4 class="text-xl font-bold text-white">Ketua KT Cahaya Muda Juwono</h4>
                                 <p class="text-md font-light mt-2 text-white text-justify">
-                                    Jersi merupakan salah satu pendongkrak kepemudaan di Dusun Juwono. Bersama dengan Pemuda
+                                    Jersi merupakan salah satu pendongkrak kepemudaan di Dusun Juwono. Bersama dengan
+                                    Pemuda
                                     - Pemudi
-                                    RT lain, Jersi bekerja sama untuk membangun Dusun Juwono menjadi lebih baik dan terus
+                                    RT lain, Jersi bekerja sama untuk membangun Dusun Juwono menjadi lebih baik dan
+                                    terus
                                     berkembang.
                                 </p>
                             </blockquote>
@@ -118,7 +129,8 @@
             <div class="container mx-auto px-4">
                 <div class="flex flex-wrap items-center">
                     <div class="w-full md:w-6/12 lg:w-4/12 lg:mb-0 mb-12 px-4">
-                        <div class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-sky-500">
+                        <div
+                            class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-sky-500">
                             <img alt="Pemuda Jersi"
                                 src="https://cdn.discordapp.com/attachments/1104115558649176094/1138295736283443330/IMG_9153_495x634.webp"
                                 class="w-full align-middle rounded-t-lg mx-auto" />
@@ -130,8 +142,10 @@
                                 </svg>
                                 <h4 class="text-xl font-bold">Pemuda Jersi</h4>
                                 <p class="text-md font-light mt-2 text-justify">
-                                    Kita bersama untuk bisa saling membantu terutama di masyarakat sekitar Rukun Warga 1,
-                                    membangun kebersamaan bukanlah hal yang sangat sulit, juga bukan hal terlalu mudah, kita
+                                    Kita bersama untuk bisa saling membantu terutama di masyarakat sekitar Rukun Warga
+                                    1,
+                                    membangun kebersamaan bukanlah hal yang sangat sulit, juga bukan hal terlalu mudah,
+                                    kita
                                     hanya perlu saling support satu sama lain.
                                 </p>
                             </blockquote>
@@ -145,10 +159,14 @@
                             </div>
                             <h3 class="text-3xl font-semibold">Maju Bersama melalui Kebersamaan</h3>
                             <p class="mt-4 text-lg leading-relaxed text-gray-600 text-justify">
-                                Kebersamaan adalah fondasi kokoh dalam perjalanan organisasi kepemudaan menuju kemajuan yang
-                                berkelanjutan. Dengan bersatu, kita tidak hanya merangkai impian menjadi kenyataan, tetapi
-                                juga mengatasi setiap tantangan dengan tekad yang tak tergoyahkan. Di setiap langkah, kita
-                                menemukan bahwa kebersamaan adalah kunci utama untuk mencapai prestasi luar biasa yang tak
+                                Kebersamaan adalah fondasi kokoh dalam perjalanan organisasi kepemudaan menuju kemajuan
+                                yang
+                                berkelanjutan. Dengan bersatu, kita tidak hanya merangkai impian menjadi kenyataan,
+                                tetapi
+                                juga mengatasi setiap tantangan dengan tekad yang tak tergoyahkan. Di setiap langkah,
+                                kita
+                                menemukan bahwa kebersamaan adalah kunci utama untuk mencapai prestasi luar biasa yang
+                                tak
                                 terbatas.
                             </p>
                         </div>
@@ -213,4 +231,3 @@
         </section>
     </main>
 </template>
-  
